@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Tanaman</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="recomendation">Recomendation</string>
+    <string name="history">History</string>
+    <string name="home">Home</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="nama">Nama</string>
+    <string name="nitrogen">Nitrogen</string>
+    <string name="phosporus">Phosporus</string>
+    <string name="potasium">Potasium</string>
+    <string name="temperature">Temperature</string>
+    <string name="rainfall">Rainfall</string>
+    <string name="ph">PH</string>
+    <string name="humidity">Humidity</string>
+    <string name="nitrogen_value">Nitrogen: %1$s</string>
+    <string name="phosporus_value">Phosporus: %1$s</string>
+    <string name="potasium_value">Potasium: %1$s</string>
+    <string name="temperature_value">Temperature: %1$s</string>
+    <string name="rainfall_value">Rainfall: %1$s</string>
+    <string name="ph_value">PH: %1$s</string>
+    <string name="humidity_value">Humidity: %1$s</string>
+    <string name="submit">Submit</string>
+    <string name="rekomendasi_tanaman">Rekomendasi Tanaman</string>
+    <string name="daftar_tanaman">Daftar Tanaman</string>
+    <string name="cek_rekomendasi">Cek Rekomendasi</string>
+    <string name="submit_input">Apakah anda sudah yakin untuk submit inputan anda?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="hasil_rekomendasi">Hasil Rekomendasi</string>
+    <string name="clear">Clear</string>
+</resources>

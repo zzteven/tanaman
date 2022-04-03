@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/listTanamanFragment">
+
+    <fragment
+        android:id="@+id/listTanamanFragment"
+        android:name="com.example.tanaman.ui.ListTanamanFragment"
+        android:label="ListTanamanFragment"
+        tools:layout="@layout/fragment_list_tanaman" />
+
+    <fragment
+        android:id="@+id/historyTanamanFragment"
+        android:name="com.example.tanaman.ui.HistoryTanamanFragment"
+        android:label="HistoryTanamanFragment"
+        tools:layout="@layout/fragment_history_tanaman" />
+
+    <fragment
+        android:id="@+id/rekomendasiTanamanFragment"
+        android:name="com.example.tanaman.ui.RekomendasiTanamanFragment"
+        android:label="RekomendasiTanamanFragment"
+        tools:layout="@layout/fragment_rekomendasi_tanaman" />
+
+</navigation>
